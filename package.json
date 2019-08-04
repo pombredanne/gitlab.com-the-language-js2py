@@ -1,6 +1,6 @@
 {
   "name": "js2py",
-  "version": "1.0.3-2",
+  "version": "1.0.3-3",
   "description": "Converts JavaScript to Python",
   "main": "index.js",
   "scripts": {
